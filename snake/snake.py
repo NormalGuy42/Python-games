@@ -17,10 +17,10 @@ h= 600
 BLOCK_SIZE =20
 SPEED = 20
 #path
-game_caption = 'Madiou\'s Snake '
-icon_path = 'snake/assets/anaconda.png'
-loser_sound_path = 'snake/assets/Sound/loser.wav'
-crunch_sound_path = 'snake/assets/Sound/crunch.wav'
+game_caption = 'Madiou\'s Snake ' #Change caption here
+icon_path = 'snake/assets/anaconda.png'#Change icon here
+loser_sound_path = 'snake/assets/loser.wav'
+crunch_sound_path = 'snake/assets/crunch.wav'
 #Score list
 scores =[]
 pygame.init()
